@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "quality": "ng test --single-run",
+    "quality": "ng test --code-coverage --single-run",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
